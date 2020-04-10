@@ -1,0 +1,10 @@
+[
+    { id: 0, title: "Sachen programmieren", posX: 10, posY: 50, developer: "Herr Entwickler Typ", devGroup: "group_dev", dod: dodBeispielListe },
+    { id: 1, title: "Irgendwas mit SINA", posX: 650, posY: 120, developer: "Herr Kollab Typ", devGroup: "group_kollab", dod: dodBeispielListe },
+    { id: 2, title: "Ich hab nix", posX: 10, posY: 120, developer: "Anderer Kollab Typ", devGroup: "group_kollab", dod: dodBeispielListe },
+    { id: 3, title: "Inhaltstypen verhauen", posX: 650, posY: 190, developer: "Dr. Sharepoint", devGroup: "group_sharepoint", dod: dodBeispielListe },
+    { id: 5, title: "Irgendwas mit SINA", posX: 1300, posY: 120, developer: "Herr Kollab Typ", devGroup: "group_kollab", dod: dodBeispielListe },
+    { id: 6, title: "Ich hab nix", posX: 1300, posY: 190, developer: "Anderer Kollab Typ", devGroup: "group_kollab", dod: dodBeispielListe },
+    { id: 4, title: "Sachen programmieren", posX: 650, posY: 50, developer: "Herr Entwickler Typ", devGroup: "group_dev", dod: dodBeispielListe },
+    { id: 7, title: "Inhaltstypen verhauen", posX: 1300, posY: 50, developer: "Dr. Sharepoint", devGroup: "group_sharepoint", dod: dodBeispielListe },
+ ]
